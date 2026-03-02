@@ -1,5 +1,5 @@
 // Stores user information and allows the user to authenticate  against
-// Meu primeiro comentário via VS Code.  
+// Meu primeiro comentário via VS Code.    
 table user {
   auth = true
 
