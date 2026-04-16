@@ -1,0 +1,16 @@
+- [ ] Criar tabela `activity` em `tables/753302_activity.xs` (se necessário)
+- [ ] Criar tabela `activity_grade` em `tables/753303_activity_grade.xs`
+- [ ] Criar API group `apis/grades/api_group.xs`
+- [ ] Criar endpoint `POST /grades` para lançar nota (professor)
+- [ ] Criar endpoint `GET /grades/activity/{activity_id}` para listar notas de atividade (professor)
+- [ ] Criar endpoint `PATCH /grades/{grade_id}` para editar nota (professor)
+- [ ] Criar endpoint `GET /grades/student/{student_id}` para ver notas do aluno
+- [ ] Validar syntax com `get_errors`
+- [ ] Testar: professor lança nota para aluno em sua atividade
+- [ ] Testar: professor tenta lançar nota em atividade de outro (erro 403)
+- [ ] Testar: aluno vê suas notas
+- [ ] Testar: aluno tenta ver notas de outro (erro 403)
+- [ ] Testar: editar nota existente
+- [ ] Atualizar README com endpoints
+- [ ] Gerar OpenAPI specs
+- [ ] Revisar PR

@@ -342,7 +342,7 @@
   {
     "id": 803741,
     "path": "tables/999999_test.xs",
-    "status": "unchanged",
+    "status": "notfound",
     "type": "table",
     "staged": false,
     "sha256": "b14700618f9439bf39d6ea20f8e5ba9cc014a79ad28b36c8ea7da53922e63af6",
