@@ -17,11 +17,6 @@ table academic_tasks {
 
   index = [
     {type: "primary", field: [{name: "id"}]}
-    {type: "btree", field: [{name: "user_id"}]}
-    {type: "btree", field: [{name: "subject_id"}]}
-  ]
-}
-
   index = [
     {type: "primary", field: [{name: "id"}]}
     {type: "btree", field: [{name: "user_id"}]}
