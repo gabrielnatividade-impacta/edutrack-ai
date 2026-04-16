@@ -1,11 +1,22 @@
 table subjects {
-  id uuid primary_key,
-  name text,
-  code text?,
-  description text?,
-  status text default="active",
-  user_id uuid references=users.id,
-  account_id uuid? references=accounts.id,
-  created_at timestamp default=now(),
-  updated_at timestamp default=now()
+  schema {
+    uuid id
+    text name
+    text? code
+    text? description
+    text status?="active"
+    uuid user_id {
+      table = "user"
+    }
+    uuid? account_id {
+      table = "account"
+    }
+    timestamp created_at?=now
+    timestamp updated_at?=now
+  }
+
+  index = [
+    {type: "primary", field: [{name: "id"}]}
+    {type: "btree", field: [{name: "user_id"}]}
+  ]
 }
