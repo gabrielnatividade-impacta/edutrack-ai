@@ -183,7 +183,7 @@
     "id": 753297,
     "type": "table",
     "path": "tables/753297_account.xs",
-    "status": "unchanged",
+    "status": "changed",
     "staged": false,
     "sha256": "c3a6b700bb155060536751341cadd655d82412f9cec18624fd73b3bfe9ad2408",
     "original": "Ly8gU3RvcmVzIGluZm9ybWF0aW9uIGFib3V0IGFjY291bnRzIHRoYXQgdXNlcnMgYmVsb25nIHRvCnRhYmxlIGFjY291bnQgewogIGF1dGggPSBmYWxzZQoKICBzY2hlbWEgewogICAgaW50IGlkCiAgICB0aW1lc3RhbXAgY3JlYXRlZF9hdD89bm93CiAgCiAgICAvLyBUaGUgbmFtZSBvZiB0aGUgY29tcGFueS4KICAgIHRleHQgbmFtZT8gZmlsdGVycz10cmltCiAgCiAgICAvLyBBIGJyaWVmIGRlc2NyaXB0aW9uIG9mIHRoZSBjb21wYW55LgogICAgdGV4dCBkZXNjcmlwdGlvbj8gZmlsdGVycz10cmltCiAgCiAgICB0ZXh0IGxvY2F0aW9uPyBmaWx0ZXJzPXRyaW0KICB9CgogIGluZGV4ID0gWwogICAge3R5cGU6ICJwcmltYXJ5IiwgZmllbGQ6IFt7bmFtZTogImlkIn1dfQogICAge3R5cGU6ICJnaW4iLCBmaWVsZDogW3tuYW1lOiAieGRvIiwgb3A6ICJqc29uYl9wYXRoX29wIn1dfQogICAge3R5cGU6ICJidHJlZSIsIGZpZWxkOiBbe25hbWU6ICJjcmVhdGVkX2F0Iiwgb3A6ICJkZXNjIn1dfQogIF0KCiAgdGFncyA9IFsieGFubzpxdWljay1zdGFydCJdCn0="
@@ -192,7 +192,7 @@
     "id": 753299,
     "type": "table",
     "path": "tables/753299_agent_conversation.xs",
-    "status": "unchanged",
+    "status": "changed",
     "staged": false,
     "sha256": "a303b2e6b6fae1de168ef0a6c7d66ac6f083b97ac7c2f25f751d9db092a07773",
     "original": "Ly8gU3RvcmVzIGNvbnZlcnNhdGlvbiB0aHJlYWRzIGZvciBhZ2VudHMvY2hhdGJvdHMuCnRhYmxlIGFnZW50X2NvbnZlcnNhdGlvbiB7CiAgYXV0aCA9IGZhbHNlCgogIHNjaGVtYSB7CiAgICBpbnQgaWQKICAgIHRpbWVzdGFtcCBjcmVhdGVkX2F0Pz1ub3cKICAKICAgIC8vIFRoZSB1c2VyIHdobyBvd25zIHRoaXMgY29udmVyc2F0aW9uIHRocmVhZC4KICAgIGludCBvd25lcl91c2VyPyB7CiAgICAgIHRhYmxlID0gInVzZXIiCiAgICB9CiAgCiAgICAvLyBUaGUgdGl0bGUgb3Igc3ViamVjdCBvZiB0aGUgY29udmVyc2F0aW9uLgogICAgdGV4dCB0aXRsZT8gZmlsdGVycz10cmltCiAgCiAgICAvLyBUaW1lc3RhbXAgb2YgdGhlIGxhc3QgbWVzc2FnZSBpbiB0aGUgY29udmVyc2F0aW9uLgogICAgdGltZXN0YW1wIGxhc3RfbWVzc2FnZV9hdD8KICB9CgogIGluZGV4ID0gWwogICAge3R5cGU6ICJwcmltYXJ5IiwgZmllbGQ6IFt7bmFtZTogImlkIn1dfQogICAge3R5cGU6ICJnaW4iLCBmaWVsZDogW3tuYW1lOiAieGRvIiwgb3A6ICJqc29uYl9wYXRoX29wIn1dfQogICAge3R5cGU6ICJidHJlZSIsIGZpZWxkOiBbe25hbWU6ICJjcmVhdGVkX2F0Iiwgb3A6ICJkZXNjIn1dfQogIF0KCiAgdGFncyA9IFsieGFubzpxdWljay1zdGFydCJdCn0="
@@ -201,7 +201,7 @@
     "id": 753300,
     "type": "table",
     "path": "tables/753300_agent_message.xs",
-    "status": "unchanged",
+    "status": "changed",
     "staged": false,
     "sha256": "86d4c48947344a9f5232cbdabb0bb820b89931ce60f480f643b3ebe099a5cd19",
     "original": "Ly8gU3RvcmVzIGluZGl2aWR1YWwgbWVzc2FnZXMgd2l0aGluIGNvbnZlcnNhdGlvbiB0aHJlYWRzLgp0YWJsZSBhZ2VudF9tZXNzYWdlIHsKICBhdXRoID0gZmFsc2UKCiAgc2NoZW1hIHsKICAgIGludCBpZAogICAgdGltZXN0YW1wIGNyZWF0ZWRfYXQ/PW5vdwogIAogICAgLy8gUmVmZXJlbmNlIHRvIHRoZSBwYXJlbnQgY29udmVyc2F0aW9uIHRocmVhZC4KICAgIGludCBjb252ZXJzYXRpb24/IHsKICAgICAgdGFibGUgPSAiYWdlbnRfY29udmVyc2F0aW9uIgogICAgfQogIAogICAgLy8gVGhlIHJvbGUgb2YgdGhlIG1lc3NhZ2Ugc2VuZGVyIChlLmcuLCBzeXN0ZW0sIHVzZXIsIGFzc2lzdGFudCwgdG9vbCkuCiAgICBlbnVtIHJvbGU/IHsKICAgICAgdmFsdWVzID0gWyJzeXN0ZW0iLCAidXNlciIsICJhc3Npc3RhbnQiLCAidG9vbCJdCiAgICB9CiAgCiAgICAvLyBUaGUgY29udGVudCBvZiB0aGUgbWVzc2FnZSwgY29tcGF0aWJsZSB3aXRoIEFJIFNESy4KICAgIGpzb24gY29udGVudD8KICB9CgogIGluZGV4ID0gWwogICAge3R5cGU6ICJwcmltYXJ5IiwgZmllbGQ6IFt7bmFtZTogImlkIn1dfQogICAge3R5cGU6ICJnaW4iLCBmaWVsZDogW3tuYW1lOiAieGRvIiwgb3A6ICJqc29uYl9wYXRoX29wIn1dfQogICAge3R5cGU6ICJidHJlZSIsIGZpZWxkOiBbe25hbWU6ICJjcmVhdGVkX2F0Iiwgb3A6ICJkZXNjIn1dfQogIF0KCiAgdGFncyA9IFsieGFubzpxdWljay1zdGFydCJdCn0="
@@ -210,7 +210,7 @@
     "id": 753298,
     "type": "table",
     "path": "tables/753298_event_log.xs",
-    "status": "unchanged",
+    "status": "changed",
     "staged": false,
     "sha256": "01cbd93fe409cbb15607c4f90a3fa3cb91dcf20dbc747cdc493f67baa29027c9",
     "original": "Ly8gU3RvcmVzIGxvZ3Mgb2YgdXNlciBhY3Rpdml0aWVzIGFuZCBldmVudHMgd2l0aGluIHRoZSBhcHBsaWNhdGlvbi4KdGFibGUgZXZlbnRfbG9nIHsKICBhdXRoID0gZmFsc2UKCiAgc2NoZW1hIHsKICAgIGludCBpZAogICAgdGltZXN0YW1wIGNyZWF0ZWRfYXQ/PW5vdwogIAogICAgLy8gUmVmZXJlbmNlIHRvIHRoZSB1c2VyIHdobyBwZXJmb3JtZWQgdGhlIGFjdGlvbi4KICAgIGludCB1c2VyX2lkPyB7CiAgICAgIHRhYmxlID0gInVzZXIiCiAgICB9CiAgCiAgICAvLyBSZWZlcmVuY2UgdG8gdGhlIGNvbXBhbnkgYXNzb2NpYXRlZCB3aXRoIHRoZSB1c2VyIGV2ZW50LgogICAgaW50IGFjY291bnRfaWQ/IHsKICAgICAgdGFibGUgPSAiYWNjb3VudCIKICAgIH0KICAKICAgIC8vIEEgZGVzY3JpcHRpb24gb2YgdGhlIGFjdGlvbiBwZXJmb3JtZWQgYnkgdGhlIHVzZXIgKGUuZy4sICdsb2dpbicsICdjcmVhdGVkX2ludm9pY2UnLCAndXBkYXRlZF9wcm9maWxlJykuCiAgICB0ZXh0IGFjdGlvbj8gZmlsdGVycz10cmltCiAgCiAgICAvLyBBZGRpdGlvbmFsIGRhdGEgcmVsYXRlZCB0byB0aGUgZXZlbnQsIHN1Y2ggYXMgcmVzb3VyY2UgSURzLCBvbGQvbmV3IHZhbHVlcywgb3Igb3RoZXIgY29udGV4dHVhbCBpbmZvcm1hdGlvbi4KICAgIGpzb24gbWV0YWRhdGE/CiAgfQoKICBpbmRleCA9IFsKICAgIHt0eXBlOiAicHJpbWFyeSIsIGZpZWxkOiBbe25hbWU6ICJpZCJ9XX0KICAgIHt0eXBlOiAiZ2luIiwgZmllbGQ6IFt7bmFtZTogInhkbyIsIG9wOiAianNvbmJfcGF0aF9vcCJ9XX0KICAgIHt0eXBlOiAiYnRyZWUiLCBmaWVsZDogW3tuYW1lOiAiY3JlYXRlZF9hdCIsIG9wOiAiZGVzYyJ9XX0KICBdCgogIHRhZ3MgPSBbInhhbm86cXVpY2stc3RhcnQiXQp9"
@@ -273,7 +273,7 @@
     "id": 109600,
     "type": "addon",
     "path": "addons/109600_user.xs",
-    "status": "unchanged",
+    "status": "changed",
     "staged": false,
     "sha256": "65de1d3c3a5e8357602530b6e2b3a4335fdb06f06ff3b085ea20085eb80fa1ca",
     "original": "YWRkb24gdXNlciB7CiAgaW5wdXQgewogICAgaW50IHVzZXJfaWQ/IHsKICAgICAgdGFibGUgPSAidXNlciIKICAgIH0KICB9CgogIHN0YWNrIHsKICAgIGRiLnF1ZXJ5IHVzZXIgewogICAgICB3aGVyZSA9ICRkYi51c2VyLmlkID09ICRpbnB1dC51c2VyX2lkCiAgICAgIHJldHVybiA9IHt0eXBlOiAic2luZ2xlIn0KICAgIH0KICB9Cn0="
