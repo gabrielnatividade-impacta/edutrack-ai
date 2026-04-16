@@ -1,0 +1,1 @@
+- [x] Criar tabela subjects com campos: id (uuid), name (text), code (text?), description (text?), status (text, default "active"), user_id (FK para users), account_id (FK para accounts?), created_at (timestamp), updated_at (timestamp)
